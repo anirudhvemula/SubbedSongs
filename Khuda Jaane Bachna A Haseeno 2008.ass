@@ -1,0 +1,67 @@
+﻿[Script Info]
+; Written by VisualSubSync 1.0.1.1188
+Title: <untitled>
+Original Script: <unknown>
+ScriptType: v4.00+
+PlayDepth: 0
+Timer: 100.0
+WrapStyle: 0
+
+[v4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic,  Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&H0000FFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.78,0:00:06.30,Default,,0000,0000,0000,,खुदा जाने ~ Khuda Jaane ~ Bachna Ae Haseeno [2008]
+Dialogue: 0,0:00:06.84,0:00:09.84,Default,,0000,0000,0000,,I bow down for prayer...\Nसजदे में यूँ ही झुकता हूँ...
+Dialogue: 0,0:00:09.96,0:00:12.70,Default,,0000,0000,0000,,I stop when I see you...\Nतुमपे ही आ के रुकता हूँ...
+Dialogue: 0,0:00:12.94,0:00:15.73,Default,,0000,0000,0000,,Does this happen to everyone?\Nक्या ये सबको होता है?
+Dialogue: 0,0:00:15.92,0:00:18.71,Default,,0000,0000,0000,,Why do we care about everyone?\Nहमको क्या लेना है सबसे?
+Dialogue: 0,0:00:18.93,0:00:21.65,Default,,0000,0000,0000,,You are my only concern now...\Nतुमसे ही सब बातें अब से...
+Dialogue: 0,0:00:21.99,0:00:25.81,Default,,0000,0000,0000,,You've become a blessing to me!\Nबन गए हो तुम मेरी दुआ !
+Dialogue: 0,0:00:27.84,0:00:30.79,Default,,0000,0000,0000,,I bow down for prayer...\Nसजदे में यूँ ही झुकता हूँ...
+Dialogue: 0,0:00:30.94,0:00:33.78,Default,,0000,0000,0000,,I stop when I see you...\Nतुमपे ही आ के रुकता हूँ...
+Dialogue: 0,0:00:34.02,0:00:36.72,Default,,0000,0000,0000,,Does this happen to everyone?\Nक्या ये सबको होता है?
+Dialogue: 0,0:00:36.92,0:00:39.85,Default,,0000,0000,0000,,Why do we care about everyone?\Nहमको क्या लेना है सबसे?
+Dialogue: 0,0:00:39.91,0:00:42.76,Default,,0000,0000,0000,,You are my only concern now...\Nतुमसे ही सब बातें अब से...
+Dialogue: 0,0:00:42.93,0:00:47.61,Default,,0000,0000,0000,,You've become a blessing to me!\Nबन गए हो तुम मेरी दुआ !
+Dialogue: 0,0:00:47.95,0:00:53.00,Default,,0000,0000,0000,,God knows that I'm smitten...\Nखुदा जाने के मैं फ़िदा हूँ...
+Dialogue: 0,0:00:53.97,0:00:58.96,Default,,0000,0000,0000,,God knows that I'm lost!\Nखुदा जाने मैं मिट गया !
+Dialogue: 0,0:00:59.94,0:01:05.88,Default,,0000,0000,0000,,God knows why this happened...\Nखुदा जाने ये क्यूँ हुआ है...
+Dialogue: 0,0:01:06.69,0:01:12.00,Default,,0000,0000,0000,,That how you became my God!\Nके बन गए हो तुम मेरे खुदा !
+Dialogue: 0,0:01:13.40,0:01:35.67,Default,,0000,0000,0000,,[♪]
+Dialogue: 0,0:01:36.92,0:01:42.57,Default,,0000,0000,0000,,If you tell I'll walk on your footprints...\Nतू कहे तो तेरे ही कदम के मैं निशानों पे...
+Dialogue: 0,0:01:42.69,0:01:46.99,Default,,0000,0000,0000,,and stop at your will\Nचलूँ रुकूँ इशारे पे
+Dialogue: 0,0:01:48.97,0:01:54.40,Default,,0000,0000,0000,,If you tell, I'll use dreams as excuse\Nतू कहे तो ख्वाबों का बना के मैं बहाना सा
+Dialogue: 0,0:01:54.52,0:01:59.67,Default,,0000,0000,0000,,and meet you yonder\Nमिला करूँ सिरहाने पे
+Dialogue: 0,0:02:00.89,0:02:03.72,Default,,0000,0000,0000,,You've taught me the matters of heart\Nतुम से दिल की बातें सीखी
+Dialogue: 0,0:02:03.76,0:02:06.79,Default,,0000,0000,0000,,l learnt about these ways from you\Nतुम से ही ये राहें सीखी
+Dialogue: 0,0:02:07.01,0:02:11.80,Default,,0000,0000,0000,,l live by dying for you!\Nतुमपे मर के मैं तो जी गया !
+Dialogue: 0,0:02:11.92,0:02:17.53,Default,,0000,0000,0000,,God knows that I'm smitten...\Nखुदा जाने के मैं फ़िदा हूँ...
+Dialogue: 0,0:02:17.97,0:02:23.39,Default,,0000,0000,0000,,God knows that I'm lost!\Nखुदा जाने मैं मिट गया !
+Dialogue: 0,0:02:24.02,0:02:29.96,Default,,0000,0000,0000,,God knows why this happened...\Nखुदा जाने ये क्यूँ हुआ है...
+Dialogue: 0,0:02:30.62,0:02:36.01,Default,,0000,0000,0000,,That how you became my God!\Nके बन गए हो तुम मेरे खुदा !
+Dialogue: 0,0:02:37.38,0:02:59.81,Default,,0000,0000,0000,,[♪]
+Dialogue: 0,0:03:00.87,0:03:06.70,Default,,0000,0000,0000,,My heart tells me to hide you in me...\Nदिल कहे के आज तो छुपा लो तुम पनाहों में...
+Dialogue: 0,0:03:06.75,0:03:11.42,Default,,0000,0000,0000,,I fear I might lose you\Nके डर है तुमको खो दूंगा
+Dialogue: 0,0:03:12.91,0:03:18.54,Default,,0000,0000,0000,,My heart says to watch myself, not cast an eye on this happiness...\Nदिल कहे संभल ज़रा ख़ुशी को ना नज़र लगा...
+Dialogue: 0,0:03:18.74,0:03:22.89,Default,,0000,0000,0000,,I fear that I might cry!\Nके डर है मैं तो रो दूंगा !
+Dialogue: 0,0:03:23.27,0:03:27.69,Default,,0000,0000,0000,,I make a hundred promises to you\Nकरती हूँ सौ वादे तुमसे
+Dialogue: 0,0:03:27.81,0:03:30.75,Default,,0000,0000,0000,,Bind your heart with mine\Nबांधे दिल के धागे तुमसे
+Dialogue: 0,0:03:30.87,0:03:35.77,Default,,0000,0000,0000,,what has happened to you?\Nये तुम्हें न जाने क्या हुआ ?
+Dialogue: 0,0:03:36.01,0:03:41.54,Default,,0000,0000,0000,,God knows that I'm smitten...\Nखुदा जाने के मैं फ़िदा हूँ...
+Dialogue: 0,0:03:42.12,0:03:47.49,Default,,0000,0000,0000,,God knows that I'm lost!\Nखुदा जाने मैं मिट गया !
+Dialogue: 0,0:03:47.95,0:03:53.67,Default,,0000,0000,0000,,God knows why this happened...\Nखुदा जाने ये क्यूँ हुआ है...
+Dialogue: 0,0:03:54.67,0:03:59.72,Default,,0000,0000,0000,,That how you became my God!\Nके बन गए हो तुम मेरे खुदा !
+Dialogue: 0,0:04:00.78,0:04:03.79,Default,,0000,0000,0000,,I bow down for prayer...\Nसजदे में यूँ ही झुकता हूँ...
+Dialogue: 0,0:04:03.91,0:04:06.82,Default,,0000,0000,0000,,I stop when I see you...\Nतुमपे ही आ के रुकता हूँ...
+Dialogue: 0,0:04:06.94,0:04:09.86,Default,,0000,0000,0000,,Does this happen to everyone?\Nक्या ये सबको होता है?
+Dialogue: 0,0:04:09.92,0:04:12.87,Default,,0000,0000,0000,,Why do we care about everyone?\Nहमको क्या लेना है सबसे?
+Dialogue: 0,0:04:12.93,0:04:15.80,Default,,0000,0000,0000,,You are my only concern now...\Nतुमसे ही सब बातें अब से...
+Dialogue: 0,0:04:15.92,0:04:20.47,Default,,0000,0000,0000,,You've become a blessing to me!\Nबन गए हो तुम मेरी दुआ !
+Dialogue: 0,0:04:20.98,0:04:26.80,Default,,0000,0000,0000,,God knows that I'm smitten...\Nखुदा जाने के मैं फ़िदा हूँ...
+Dialogue: 0,0:04:26.94,0:04:32.67,Default,,0000,0000,0000,,God knows that I'm lost!\Nखुदा जाने मैं मिट गया !
+Dialogue: 0,0:04:33.34,0:04:39.58,Default,,0000,0000,0000,,God knows why this happened...\Nखुदा जाने ये क्यूँ हुआ है...
+Dialogue: 0,0:04:39.70,0:04:44.86,Default,,0000,0000,0000,,That how you became my God!\Nके बन गए हो तुम मेरे खुदा !
+Dialogue: 0,0:04:45.55,0:04:50.48,Default,,0000,0000,0000,,[ That how you became my God ]\N[ के बन गए हो तुम मेरे खुदा ]
